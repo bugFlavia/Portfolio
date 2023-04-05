@@ -1,0 +1,19 @@
+.Portifolio{
+            background-color: #000000;
+            margin-top: 8px;
+            color: #FFFFFF;
+            padding-top: 30px;
+            box-shadow: white 2px 1px 5px 5px;
+}
+
+h1{
+    text-align: center;
+    color: #9CD4DE;
+}
+
+.projetos{
+          margin-top: 30px;
+          display: flex;
+          justify-content: center;
+          padding-bottom: 30px;
+}

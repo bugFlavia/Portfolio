@@ -1,0 +1,18 @@
+.Rodape{
+       background-color: #000000;
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       padding-top: 30px;
+       color: white;
+       box-shadow: white 2px 1px 5px 5px;
+}
+
+.referencias{
+             margin-left: 200px;
+}
+
+.listaLink a{
+             color: white;
+             text-decoration: underline;
+}
+

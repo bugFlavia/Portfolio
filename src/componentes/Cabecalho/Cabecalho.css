@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Cabecalho{
+           height: 250px;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           background-color: #000000;
+           box-shadow: #ffffff 0px 2px 2px 2px;
+           margin-top: 5px;
+}
+
+header{
+       color: #9CD4DE;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       padding-left: 50px;
+       height: 150px;
+       text-align: center;
+ 
+}

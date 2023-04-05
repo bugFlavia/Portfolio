@@ -1,0 +1,20 @@
+.contato{
+         font-weight: bold;
+         color: black;
+}
+
+.divisao{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.informacoes{
+             margin-left: 100px;
+}
+
+.formulario{
+             display: flex;
+             align-items: center;
+             justify-content: center;
+             text-align: center;
+}

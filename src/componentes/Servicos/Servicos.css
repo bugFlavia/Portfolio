@@ -1,0 +1,73 @@
+.Servicos{
+    background-color: #304C8F;
+    text-align: center;
+    top: 0%;
+    color: white;
+}
+
+.secoes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 30px;
+}
+
+.word{
+     background-image: url('../../imagens/word.png');
+     background-size: 10%;
+     background-position-x: center;
+     background-repeat: no-repeat;
+     text-align: center;
+     padding-top: 50px;
+     margin-bottom: 50px;
+}
+
+.powerpoint{
+    background-image: url('../../imagens/powerpoint.png');
+    background-size: 10%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.excel{
+    background-image: url('../../imagens/excel.png');
+    background-size: 10%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.html{
+    background-image: url('../../imagens/html.png');
+    background-size: 10%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.css{
+    background-image: url('../../imagens/css.png');
+    background-size: 10%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.js{
+    background-image: url('../../imagens/js.png');
+    background-size: 10%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
